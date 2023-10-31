@@ -1,0 +1,38 @@
+p{
+    border: none;
+    background-color: rgb(232, 226, 237);
+    color: rgb(8, 8, 8);
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#text{
+   background-color: #dedc78;
+    padding:10px;
+    height: 70px;
+    margin-left: 600px;
+    display: flex;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    
+}
+
+
+#countdown{
+    background-color: #dedc78;
+    padding:10px;
+    height: 70px;
+    margin-left: 600px;
+    display: flex;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    
+}
